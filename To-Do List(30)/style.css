@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: border-box;
+
+}
+
+button{
+    width: 70px;
+    height: 50px;
+    margin-left: 80% ;
+    background-color: rgb(24, 3, 3);
+    color: white;
+    margin-top: 50px;
+
+
+}
+
+.list{
+    margin-top: 50px;
+    margin-left: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(59, 186, 59);
+    border: black;
+    width: 100%;
+    height: 150px;
+    border: 2px solid black;
+    
+
+}
+
+.head{
+    display: flex;
+    margin-top: 25px;
+    /* text-align: center; */
+    justify-content: center;
+    font-size: x-large;
+    font-style: normal;
+
+}
+.table{
+    margin-top: 5px;
+    flex-direction: column;
+    border-spacing: 60px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+    
+}
+
+.heading{
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.frm{
+    margin-top: 10px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+   
+    
+} 
+.ABC{
+    background-color: aqua;
+
+}
